@@ -26,12 +26,9 @@ This project implements a web-based prototype for Optical Character Recognition 
 
 2. Install the required dependencies:
    ```
-   pip install transformers torch gradio Pillow
+   pip install -r requirements.txt
    ```
-
-3. Download the Qwen2-VL-2B-Instruct model:
-   The model will be automatically downloaded when you run the application for the first time.
-
+   
 ## Usage
 
 1. Run the application:
