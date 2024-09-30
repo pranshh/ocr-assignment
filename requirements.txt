@@ -1,0 +1,8 @@
+transformers
+torch
+torchvision
+gradio
+Pillow
+qwen-vl-utils
+accelerate
+byaldi
